@@ -2,4 +2,5 @@ Hi,
 This is my first git file.
 Learning git on Oct 12
 Adding new line
-New line for next commit
+Deleted a line
+Added new branch develop
